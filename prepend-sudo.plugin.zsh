@@ -14,4 +14,4 @@ zle -N prepend-sudo
 # defined shortcut keys: [Esc] [Esc]
 bindkey "\e\e" prepend-sudo
 # defined shortcut keys: [Ctrl-o]
-bindkey "^[o" prepend-sudo
+bindkey "^O" prepend-sudo
